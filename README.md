@@ -20,8 +20,12 @@ Reduce operational costs and improve process efficiency.
 ## 2.1 Process Identification & Prioritization
 
 ## Requirements:
-✅ Define standardized automation selection criteria (high-volume, rule-based, error-prone tasks). 
+✅ Define standardized automation selection criteria (high-volume, rule-based, error-prone tasks).
+
+
 ✅ Develop an Automation Scorecard to rank processes based on business impact and feasibility. 
+
+
 ✅ Collaborate with business and IT stakeholders to validate automation use cases.
 
 ## Dependencies:
