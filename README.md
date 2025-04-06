@@ -20,7 +20,9 @@ Reduce operational costs and improve process efficiency.
 2.1 Process Identification & Prioritization
 
 Requirements:
-✅ Define standardized automation selection criteria (high-volume, rule-based, error-prone tasks). ✅ Develop an Automation Scorecard to rank processes based on business impact and feasibility. ✅ Collaborate with business and IT stakeholders to validate automation use cases.
+✅ Define standardized automation selection criteria (high-volume, rule-based, error-prone tasks). 
+✅ Develop an Automation Scorecard to rank processes based on business impact and feasibility. 
+✅ Collaborate with business and IT stakeholders to validate automation use cases.
 
 Dependencies:
 Business teams for process identification.
@@ -28,7 +30,9 @@ IT for access to enterprise applications (SAP, ServiceNow, etc.).
 
 2.2 Technology & Architecture Standardization
 Requirements:
-✅ Hybrid Automation Approach – Use API-first automation where possible, reducing reliance on UI-based RPA. ✅ Modular & Reusable Components – Standardize bot templates for login, data extraction, reporting, etc. ✅ Cloud vs. On-Prem Strategy – Optimize execution environments based on security and scalability needs.
+✅ Hybrid Automation Approach – Use API-first automation where possible, reducing reliance on UI-based RPA. 
+✅ Modular & Reusable Components – Standardize bot templates for login, data extraction, reporting, etc. 
+✅ Cloud vs. On-Prem Strategy – Optimize execution environments based on security and scalability needs.
 
 Dependencies:
 API availability in enterprise applications.
@@ -36,7 +40,9 @@ IT infrastructure support for cloud/on-prem deployments.
 
 2.3 Governance & Security Compliance
 Requirements:
-✅ RPA Center of Excellence (CoE) – Establish governance and best practices. ✅ Role-Based Access Control (RBAC) – Restrict bot access based on security policies. ✅ Audit Logging & Compliance Monitoring – Ensure bot activity tracking for SOX, GDPR, and internal compliance.
+✅ RPA Center of Excellence (CoE) – Establish governance and best practices. 
+✅ Role-Based Access Control (RBAC) – Restrict bot access based on security policies. 
+✅ Audit Logging & Compliance Monitoring – Ensure bot activity tracking for SOX, GDPR, and internal compliance.
 
 Dependencies:
 IT Security & Compliance teams.
@@ -44,7 +50,9 @@ Enterprise identity and access management systems.
 
 2.4 Operational Resilience & Maintenance
 Requirements:
-✅ Self-Healing Bots – Implement monitoring mechanisms for automated bot recovery. ✅ Exception Handling & Alerts – Integrate real-time failure detection and notifications. ✅ Scalable Bot Execution Model – Deploy distributed bot architecture to handle high workloads efficiently.
+✅ Self-Healing Bots – Implement monitoring mechanisms for automated bot recovery. 
+✅ Exception Handling & Alerts – Integrate real-time failure detection and notifications. 
+✅ Scalable Bot Execution Model – Deploy distributed bot architecture to handle high workloads efficiently.
 
 Dependencies:
 IT support for infrastructure monitoring.
@@ -52,7 +60,9 @@ Logging and alerting tools (Splunk, ELK, etc.).
 
 2.5 AI & ML Readiness for Future Expansion
 Requirements:
-✅ AI-Assisted Process Discovery – Use ML algorithms to identify automation opportunities dynamically. ✅ Cognitive Automation (OCR, NLP, ML Integration) – Enhance RPA with AI-powered decision-making. ✅ Data-Driven Bot Optimization – Continuously analyze bot performance to refine automation logic.
+✅ AI-Assisted Process Discovery – Use ML algorithms to identify automation opportunities dynamically. 
+✅ Cognitive Automation (OCR, NLP, ML Integration) – Enhance RPA with AI-powered decision-making. 
+✅ Data-Driven Bot Optimization – Continuously analyze bot performance to refine automation logic.
 
 Dependencies:
 AI/ML teams for model development.
