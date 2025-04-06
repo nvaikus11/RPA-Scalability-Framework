@@ -96,6 +96,7 @@ Logging and alerting tools (Splunk, ELK, etc.).
 
 ## 2.5 AI & ML Readiness for Future Expansion
 Requirements:
+
 ✅ AI-Assisted Process Discovery – Use ML algorithms to identify automation opportunities dynamically. 
 
 
