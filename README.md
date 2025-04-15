@@ -9,7 +9,6 @@ This document outlines the RPA Scalability Framework for Apple's automation team
 It provides best practices for deploying, maintaining, and evolving RPA solutions while setting the foundation for AI/ML-driven automation in the future.
 
 ## 1.2 Background
-Apple’s automation team is in the early stages of RPA adoption. While initial efforts focus on implementing RPA for specific processes, the long-term vision includes expanding into AI, ML, and Computer Vision-driven automation. 
 
 This framework provides a structured methodology to scale automation efficiently while maintaining security, compliance, and operational stability.
 
